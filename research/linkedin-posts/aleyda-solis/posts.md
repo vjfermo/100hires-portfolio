@@ -44,8 +44,15 @@ Read more here: https://lnkd.in/eS9Pubqb
 
 ## POST 3
 
-**Date:**
-**Post:**
+**Date:June 04, 2026
+**Post:👀 Google AI Mode usage more than doubled in the US in a single quarter. In Europe, it grew even faster. 👇 Overall share remains below 0.25% in both regions, indicating early stage adoption with significant room to grow: 
+
+* In the US, Google AI Mode's share of desktop events grew from 0.06% in December 2025 to 0.16% in March 2026, more than a 2.5x increase in one quarter.
+* In the EU and UK, growth was sharper: 0.06% in December to 0.21% in March, nearly a 4x increase over the same period.
+* By March 2026, EU and UK adoption had overtaken the US (0.21% vs 0.16%), despite AI Mode launching later in Europe.
+* Growth was gradual through most of 2025 but clearly accelerated entering Q1 2026, with March showing the largest month-on-month increase in both regions.
+
+Source: Datos, A Semrush Company / SparkToro State of Search Q1 2026 - thanks Nicole P. for the data!
 
 ---
 
