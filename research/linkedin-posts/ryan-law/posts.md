@@ -8,7 +8,6 @@
 
 ## POST 1
 
-**Date:**
 each week, i automate more parts of my job. if you're a content marketer, you should probably do the same.
 
 i wrote an article with some real-world inspiration from the Ahrefs blog team (and some starter prompts to play with), including:
