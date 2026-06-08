@@ -1,6 +1,6 @@
 # LinkedIn Posts: Kevin Indig
 
-**Profile URL:** https://www.linkedin.com/in/kevin-indig
+**Profile URL:** https://www.linkedin.com/in/kevinindig
 **Date collected:** 2026-06-08
 **Posts collected:** [fill in count after collecting]
 
