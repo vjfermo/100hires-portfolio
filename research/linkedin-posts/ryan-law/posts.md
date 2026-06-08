@@ -7,8 +7,8 @@
 ---
 
 ## POST 1
-
-each week, i automate more parts of my job. if you're a content marketer, you should probably do the same.
+Date: May 2026
+Post: each week, i automate more parts of my job. if you're a content marketer, you should probably do the same.
 
 i wrote an article with some real-world inspiration from the Ahrefs blog team (and some starter prompts to play with), including:
 
@@ -30,7 +30,8 @@ full article here: https://lnkd.in/egQfrdZY
 
 ## POST 2
 
-i made some MAJOR upgrades to my content automation system in Agent A last week:
+Date: May 2026
+Post: i made some MAJOR upgrades to my content automation system in Agent A last week:
 
 - 🌴 VIBE EDITING MODE: you can now use a chatbox to give the LLM directional feedback on article outlines and drafts, and it'll action your changes for you. no more manual editing or copy-pasting, all vibes, all the time!!!
 
