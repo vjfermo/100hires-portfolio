@@ -8,8 +8,8 @@
 
 ## POST 1
 
-**Date:May 2026
-**Post:A finding from our AEO experiment has changed the way we think about prompt selection.
+Date:May 2026
+Post:A finding from our AEO experiment has changed the way we think about prompt selection.
 
 When we ran our target prompts through Clearscope's Prompt Tracking, we noticed something in the fan-out data that wasn't obvious at first: the frequency percentage next to each AI web search isn't just telling you how popular that search is. It's telling you how stable it is.
 
@@ -28,8 +28,8 @@ More findings coming as we go.
 
 ## POST 2
 
-**Date:May 2026
-**Post:For those of you following along, we started an AEO experiment using Clearscope's own platform to test whether a repeatable content process can earn brand mentions in AI-generated responses. Our target prompt: "Answer Engine Optimization."
+Date:May 2026
+Post:For those of you following along, we started an AEO experiment using Clearscope's own platform to test whether a repeatable content process can earn brand mentions in AI-generated responses. Our target prompt: "Answer Engine Optimization."
 
 This is our first check-in, about 3 weeks later.
 
@@ -59,8 +59,8 @@ Stay tuned.
 
 ## POST 3
 
-**Date:March 2026
-**Post:Everyone keeps saying “AI is the new search.” 
+Date:March 2026
+Post:Everyone keeps saying “AI is the new search.” 
 
 But here’s the part people skip: If AI is search, then every model is a different search engine and they all behave very differently.
 
