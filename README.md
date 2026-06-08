@@ -1,27 +1,86 @@
-# 100Hires Portfolio Project — Victor James Fermo
+# 100Hires Portfolio Project
+## Victor James Fermo
 
-## Tools Installed
+---
 
-- **Cursor IDE** — AI-powered code editor (cursor.com)
-- **Claude Code for VS Code** — Anthropic's coding assistant, installed via Cursor's Extensions panel (Ctrl+Shift+X)
-- **Codex by OpenAI** — OpenAI's coding agent, installed via the same Extensions panel
+## Step 1: Environment Setup (Completed)
 
-## Steps Completed
+### Tools Installed
+- **Cursor IDE** (cursor.com) - AI-native code editor
+- **Claude Code** (by Anthropic) - AI coding assistant inside Cursor
+- **Codex** (by OpenAI) - AI coding assistant inside Cursor
+- **GitHub account** created and repository set to public
 
-1. Downloaded and installed Cursor IDE on Windows
-2. Clicked "Editor Window" to access the VS Code-style interface inside Cursor
-3. Opened the Extensions panel via Ctrl+Shift+X
-4. Searched for "Claude Code" and installed the extension published by Anthropic (version 2.1.128)
-5. Searched for "Codex" and installed the extension published by OpenAI
-6. Created a GitHub account and set up this public repository
-7. Edited this README.md file directly on GitHub
+### Steps Completed
+1. Downloaded and installed Cursor IDE
+2. Navigated to the VS Code Editor Window inside Cursor (not the default AI Marketplace)
+3. Used Ctrl+Shift+X to open the Extensions panel
+4. Installed Claude Code (by Anthropic) and Codex (by OpenAI, 5.1M downloads)
+5. Created this GitHub repository (100hires-portfolio) as a public repo
+6. Edited README.md directly in the GitHub browser editor
 
-## Issues I Ran Into and How I Solved Them
+### Issue Encountered and Resolved
+Cursor's current interface separates the AI agent Marketplace view from the traditional VS Code Editor Window. The Extensions panel (Ctrl+Shift+X) is only accessible from the Editor Window. Claude Code did not appear in the Marketplace search at all. The fix was to click "Editor Window" in the top-right corner of Cursor to access the VS Code-style interface, then use Ctrl+Shift+X normally. Documented this because it is not obvious and may help others.
 
-- Cursor's interface has two modes: an AI agent view and a traditional VS Code editor view. The Extensions panel is only accessible from the Editor Window, not the default AI view. I found this by clicking "Editor Window" in the top right corner.
-- Searching "Claude Code" in Cursor's Marketplace (the AI view) returned no results. The correct path was through the VS Code Extensions panel, not the Marketplace.
-- Codex did not appear when searching the Marketplace either. Same solution applied.
+---
 
-## What This Demonstrates
+## Step 2: Research Project (In Progress)
 
-Following multi-step technical instructions independently, troubleshooting tool installation issues, using AI-powered development
+### Topic Chosen
+**AI-Powered SEO Content Production**
+
+### Why I Chose This Topic
+This topic sits at the intersection of two things happening simultaneously in digital marketing: AI tools are now capable of producing content at scale, and search engines are simultaneously changing how they evaluate and rank that content. The question of how to use AI to produce SEO content that actually performs is not answered well by most marketing content online. I chose this topic because I wanted to find the practitioners who are actually doing this at scale, not just writing about the theory.
+
+The research also directly builds on existing work I do: I run a weekly AI marketing newsletter (The AI Edge) and have hands-on experience with content workflows. This topic is not academic for me.
+
+### Expert Selection Approach
+All 10 experts were chosen because they are practitioners, not just commentators. Selection criteria:
+- They have documented results tied to real companies or client work
+- Their content is tool-specific and workflow-specific, not generic advice
+- They represent different vantage points: agency, SaaS in-house, tool builder, independent consultant
+- They are not the first page of Google results for "AI SEO expert"
+
+See /research/sources.md for full expert list with annotations.
+
+### Repository Structure
+
+```
+100hires-portfolio/
+├── README.md
+├── fetch_transcripts.py
+├── setup_research.py
+└── research/
+    ├── sources.md
+    ├── linkedin-posts/
+    │   ├── ryan-law/posts.md
+    │   ├── aleyda-solis/posts.md
+    │   ├── kevin-indig/posts.md
+    │   ├── lily-ray/posts.md
+    │   ├── ross-hudgens/posts.md
+    │   ├── chima-mmeje/posts.md
+    │   ├── eli-schwartz/posts.md
+    │   ├── bernard-huang/posts.md
+    │   ├── brendan-hufford/posts.md
+    │   └── rand-fishkin/posts.md
+    ├── youtube-transcripts/
+    └── other/
+        └── methodology.md
+```
+
+### Commit Log
+- Commit 1: Environment setup complete, Step 1 README
+- Commit 2: Add Step 2 research structure, sources, methodology
+- Commit 3: Add YouTube transcripts via youtube-transcript-api (8 videos, 8 saved)
+- Commit 4: Add LinkedIn posts (manual collection, all 10 authors)
+- Commit 5: Final cleanup and README update
+
+---
+
+## About Me
+
+Victor James Fermo - Digital Marketing and Social Media Specialist
+Based in Zamboanga City, Philippines
+Email: vj.fermo@outlook.com
+LinkedIn: https://linkedin.com/in/victorjamesfermo
+Portfolio: https://vjflowsmm.my.canva.site/portfolio
