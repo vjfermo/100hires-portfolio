@@ -8,8 +8,14 @@
 
 ## POST 1
 
-**Date:**
-**Post:**
+**Date:June 05, 2026
+**Post:🤖 How to Optimize for AI Visibility and Prepare for Agentic Search 👇 I share Three principles to prioritize AI search optimization: 
+
+1. Stop using traffic as the main KPI for AI search impact
+2. Build topical authority with content that AI systems can easily retrieve, understand, and cite
+3. Strengthen Brand Authority through third-party corroboration
+
+Read in link in comments 👀
 
 ---
 
