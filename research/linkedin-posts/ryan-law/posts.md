@@ -31,9 +31,18 @@ full article here: https://lnkd.in/egQfrdZY
 
 ## POST 2
 
-**Date:**
-**Post:**
+i made some MAJOR upgrades to my content automation system in Agent A last week:
 
+- 🌴 VIBE EDITING MODE: you can now use a chatbox to give the LLM directional feedback on article outlines and drafts, and it'll action your changes for you. no more manual editing or copy-pasting, all vibes, all the time!!!
+
+- ✍️ CUSTOM STYLE GUIDES + AUTHOR SELECTION: upload your own style guide and pick an author profile per article, trained on your own writing samples
+
+- 🧩 BRANDED FLOW DIAGRAMS: brand new skill and workflow step that suggests and generates flow diagrams in your brand styling (still fine-tuning this, just a proof of concept for now, but it works well with an existing design system to reference)
+
+- 🔧 AI CONTENT HELPER INTEGRATION: switched out my manual process for finding content gaps and replaced it with a native AI Content Helper integration. automatically generates a report for your target keyword and feeds the topic recommendations into the outlining stage
+
+should i add this to the application library in Agent A? 🤔 
+https://ahrefs.com/agent-a
 ---
 
 ## POST 3
