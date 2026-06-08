@@ -47,8 +47,14 @@ https://ahrefs.com/agent-a
 
 ## POST 3
 
-**Date:**
-**Post:**
+**Date:May 2026
+**Post: here's the exact process we built to automate content creation using Claude Code, 23 custom skill files, and the Ahrefs MCP:
+
+https://lnkd.in/e-FJfmgX
+
+(the article also includes a YouTube video where i demo the whole system to our ever-discerning CMO, Tim Soulo)
+
+hope this is helpful, and spurs a few ideas for automating the drudgery out of your work :)
 
 ---
 
